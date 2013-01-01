@@ -1,8 +1,10 @@
-require "headless"
+# require "headless"
+require "rubygems"
 require "watir"
+require "watir-webdriver"
 
-headless = Headless.new
-headless.start
+# headless = Headless.new
+# headless.start
 
 
 # puts b.title
